@@ -139,3 +139,6 @@ footer{
     flex-direction: column;
     height: 200px;
 }
+.greeting{
+  text-align: center;
+}
